@@ -1,204 +1,60 @@
 {
 	"16": {
-		"WC Qual.": {
-			"Group A": {
-				"id": 905003840,
-				"countries": [ "Chile", "Czech Republic", "Netherlands", "New Zealand", "South Africa" ]
-			},
-			"Group B": {
-				"id": 905003841,
-				"countries": [ "Hungary", "Iceland", "Norway", "Poland" ]
-			},
-			"Group C": {
-				"id": 905003842,
-				"countries": [ "Bangladesh", "Bosnia and Herzegovina", "Moldova", "Serbia", "Spain" ]
-			},
-			"Group D": {
-				"id": 905003843,
-				"countries": [ "Belgium", "Canada", "China", "Peru", "Slovakia" ]
-			},
-			"Group E": {
-				"id": 905003844,
-				"countries": [ "Albania", "Austria", "Brazil", "Malta", "South Korea" ]
-			},
-			"Group F": {
-				"id": 905003845,
-				"countries": [ "France", "Germany", "Mexico", "Sweden", "Thailand" ]
-			},
-			"Group G": {
-				"id": 905003846,
-				"countries": [ "Australia", "Ireland", "Portugal", "Slovenia", "Uruguay" ]
-			},
-			"Group H": {
-				"id": 905003847,
-				"countries": [ "Algeria", "Denmark", "Finland", "Scotland", "Switzerland" ]
-			},
-			"Group I": {
-				"id": 905003848,
-				"countries": [ "Argentina", "Colombia", "Rep. of Montenegro", "Turkey", "Venezuela" ]
-			},
-			"Group J": {
-				"id": 905003849,
-				"countries": [ "Croatia", "India", "Israel", "Italy", "Russia" ]
-			},
-			"Group K": {
-				"id": 905003850,
-				"countries": [ "Bolivia", "England", "Estonia", "Greece", "Romania" ]
-			},
-			"Group L": {
-				"id": 905003851,
-				"countries": [ "Bulgaria", "Japan", "Latvia", "Lithuania", "United States of America" ]
-			}
+		"wcqualifiers": {
+			"905003840": ["Chile", "Czech Republic", "Netherlands", "New Zealand", "South Africa"],
+			"905003841": ["Hungary", "Iceland", "Norway", "Poland"],
+			"905003842": ["Bangladesh", "Bosnia and Herzegovina", "Moldova", "Serbia", "Spain"],
+			"905003843": ["Belgium", "Canada", "China", "Peru", "Slovakia"],
+			"905003844": ["Albania", "Austria", "Brazil", "Malta", "South Korea"],
+			"905003845": ["France", "Germany", "Mexico", "Sweden", "Thailand"],
+			"905003846": ["Australia", "Ireland", "Portugal", "Slovenia", "Uruguay"],
+			"905003847": ["Algeria", "Denmark", "Finland", "Scotland", "Switzerland"],
+			"905003848": ["Argentina", "Colombia", "Rep. of Montenegro", "Turkey", "Venezuela"],
+			"905003849": ["Croatia", "India", "Israel", "Italy", "Russia"],
+			"905003850": ["Bolivia", "England", "Estonia", "Greece", "Romania"],
+			"905003851": ["Bulgaria", "Japan", "Latvia", "Lithuania", "United States of America"]
 		},
-		"WC Qual. (U21)": {
-			"Group A": {
-				"id": 906003840,
-				"countries": [ "Israel", "Romania", "Spain", "Turkey", "United States of America" ]
-			},
-			"Group B": {
-				"id": 906003841,
-				"countries": [ "Austria", "Belgium", "France", "Thailand", "Venezuela" ]
-			},
-			"Group C": {
-				"id": 906003842,
-				"countries": [ "Algeria", "Argentina", "Denmark", "Ireland", "Poland" ]
-			},
-			"Group D": {
-				"id": 906003843,
-				"countries": [ "Canada", "India", "Malta", "Mexico", "Scotland" ]
-			},
-			"Group E": {
-				"id": 906003844,
-				"countries": [ "Bangladesh", "Hungary", "Lithuania", "Norway", "South Korea" ]
-			},
-			"Group F": {
-				"id": 906003845,
-				"countries": [ "Bulgaria", "Chile", "Estonia", "Finland", "Switzerland" ]
-			},
-			"Group G": {
-				"id": 906003846,
-				"countries": [ "Italy", "New Zealand", "Rep. of Montenegro", "Serbia", "South Africa" ]
-			},
-			"Group H": {
-				"id": 906003847,
-				"countries": [ "Bolivia", "Czech Republic", "England", "Netherlands", "Slovenia" ]
-			},
-			"Group I": {
-				"id": 906003848,
-				"countries": [ "Albania", "Bosnia and Herzegovina", "China", "Sweden", "Uruguay" ]
-			},
-			"Group J": {
-				"id": 906003849,
-				"countries": [ "Germany", "Moldova", "Peru", "Russia" ]
-			},
-			"Group K": {
-				"id": 906003850,
-				"countries": [ "Australia", "Brazil", "Croatia", "Latvia", "Portugal" ]
-			},
-			"Group L": {
-				"id": 906003851,
-				"countries": [ "Colombia", "Greece", "Iceland", "Japan", "Slovakia" ]
-			}
+		"wcqualifiers21": {
+			"906003840": ["Israel", "Romania", "Spain", "Turkey", "United States of America"],
+			"906003841": ["Austria", "Belgium", "France", "Thailand", "Venezuela"],
+			"906003842": ["Algeria", "Argentina", "Denmark", "Ireland", "Poland"],
+			"906003843": ["Canada", "India", "Malta", "Mexico", "Scotland"],
+			"906003844": ["Bangladesh", "Hungary", "Lithuania", "Norway", "South Korea"],
+			"906003845": ["Bulgaria", "Chile", "Estonia", "Finland", "Switzerland"],
+			"906003846": ["Italy", "New Zealand", "Rep. of Montenegro", "Serbia", "South Africa"],
+			"906003847": ["Bolivia", "Czech Republic", "England", "Netherlands", "Slovenia"],
+			"906003848": ["Albania", "Bosnia and Herzegovina", "China", "Sweden", "Uruguay"],
+			"906003849": ["Germany", "Moldova", "Peru", "Russia"],
+			"906003850": ["Australia", "Brazil", "Croatia", "Latvia", "Portugal"],
+			"906003851": ["Colombia", "Greece", "Iceland", "Japan", "Slovakia"]
 		},
-		"WC Qual. (U19)": {
-			"Group A": {
-				"id": 907003840,
-				"countries": [ "Bolivia", "Brazil", "Colombia", "Poland", "Sweden" ]
-			},
-			"Group B": {
-				"id": 907003841,
-				"countries": [ "Austria", "Bangladesh", "Denmark", "Scotland", "Slovakia" ]
-			},
-			"Group C": {
-				"id": 907003842,
-				"countries": [ "Belgium", "Finland", "Hungary", "New Zealand", "Romania" ]
-			},
-			"Group D": {
-				"id": 907003843,
-				"countries": [ "Bosnia and Herzegovina", "Canada", "England", "Japan", "Malta" ]
-			},
-			"Group E": {
-				"id": 907003844,
-				"countries": [ "Iceland", "Netherlands", "Rep. of Montenegro", "United States of America", "Venezuela" ]
-			},
-			"Group F": {
-				"id": 907003845,
-				"countries": [ "Bulgaria", "Ireland", "Israel", "Portugal", "Thailand" ]
-			},
-			"Group G": {
-				"id": 907003846,
-				"countries": [ "China", "Estonia", "Greece", "South Africa", "South Korea" ]
-			},
-			"Group H": {
-				"id": 907003847,
-				"countries": [ "Argentina", "Australia", "Russia", "Spain", "Switzerland" ]
-			},
-			"Group I": {
-				"id": 907003848,
-				"countries": [ "France", "India", "Latvia", "Lithuania", "Uruguay" ]
-			},
-			"Group J": {
-				"id": 907003849,
-				"countries": [ "Algeria", "Chile", "Germany", "Moldova", "Serbia" ]
-			},
-			"Group K": {
-				"id": 907003850,
-				"countries": [ "Albania", "Mexico", "Slovenia", "Turkey" ]
-			},
-			"Group L": {
-				"id": 907003851,
-				"countries": [ "Croatia", "Czech Republic", "Italy", "Norway", "Peru" ]
-			}
+		"wcqualifiers19": {
+			"907003840": ["Bolivia", "Brazil", "Colombia", "Poland", "Sweden"],
+			"907003841": ["Austria", "Bangladesh", "Denmark", "Scotland", "Slovakia"],
+			"907003842": ["Belgium", "Finland", "Hungary", "New Zealand", "Romania"],
+			"907003843": ["Bosnia and Herzegovina", "Canada", "England", "Japan", "Malta"],
+			"907003844": ["Iceland", "Netherlands", "Rep. of Montenegro", "United States of America", "Venezuela"],
+			"907003845": ["Bulgaria", "Ireland", "Israel", "Portugal", "Thailand"],
+			"907003846": ["China", "Estonia", "Greece", "South Africa", "South Korea"],
+			"907003847": ["Argentina", "Australia", "Russia", "Spain", "Switzerland"],
+			"907003848": ["France", "India", "Latvia", "Lithuania", "Uruguay"],
+			"907003849": ["Algeria", "Chile", "Germany", "Moldova", "Serbia"],
+			"907003850": ["Albania", "Mexico", "Slovenia", "Turkey"],
+			"907003851": ["Croatia", "Czech Republic", "Italy", "Norway", "Peru"]
 		},
-		"WC Qual. (U17)": {
-			"Group A": {
-				"id": 908003840,
-				"countries": [ "Argentina", "Hungary", "Italy", "Rep. of Montenegro", "Slovenia" ]
-			},
-			"Group B": {
-				"id": 908003841,
-				"countries": [ "Chile", "China", "Finland", "Portugal", "Serbia" ]
-			},
-			"Group C": {
-				"id": 908003842,
-				"countries": [ "Brazil", "New Zealand", "Russia", "Scotland", "United States of America" ]
-			},
-			"Group D": {
-				"id": 908003843,
-				"countries": [ "Algeria", "Colombia", "France", "Iceland", "Poland" ]
-			},
-			"Group E": {
-				"id": 908003844,
-				"countries": [ "Belgium", "Estonia", "Greece", "Ireland", "South Africa" ]
-			},
-			"Group F": {
-				"id": 908003845,
-				"countries": [ "Albania", "Bosnia and Herzegovina", "Latvia", "Lithuania", "Venezuela" ]
-			},
-			"Group G": {
-				"id": 908003846,
-				"countries": [ "Japan", "Moldova", "Peru", "Spain", "Turkey" ]
-			},
-			"Group H": {
-				"id": 908003847,
-				"countries": [ "Bolivia", "Bulgaria", "Denmark", "Sweden", "Thailand" ]
-			},
-			"Group I": {
-				"id": 908003848,
-				"countries": [ "Austria", "Croatia", "Czech Republic", "Mexico" ]
-			},
-			"Group J": {
-				"id": 908003849,
-				"countries": [ "Germany", "Malta", "Norway", "Slovakia", "South Korea" ]
-			},
-			"Group K": {
-				"id": 908003850,
-				"countries": [ "Australia", "Canada", "Romania", "Switzerland", "Uruguay" ]
-			},
-			"Group L": {
-				"id": 908003851,
-				"countries": [ "Bangladesh", "England", "India", "Israel", "Netherlands" ]
-			}
+		"wcqualifiers17": {
+			"908003840": ["Argentina", "Hungary", "Italy", "Rep. of Montenegro", "Slovenia"],
+			"908003841": ["Chile", "China", "Finland", "Portugal", "Serbia"],
+			"908003842": ["Brazil", "New Zealand", "Russia", "Scotland", "United States of America"],
+			"908003843": ["Algeria", "Colombia", "France", "Iceland", "Poland"],
+			"908003844": ["Belgium", "Estonia", "Greece", "Ireland", "South Africa"],
+			"908003845": ["Albania", "Bosnia and Herzegovina", "Latvia", "Lithuania", "Venezuela"],
+			"908003846": ["Japan", "Moldova", "Peru", "Spain", "Turkey"],
+			"908003847": ["Bolivia", "Bulgaria", "Denmark", "Sweden", "Thailand"],
+			"908003848": ["Austria", "Croatia", "Czech Republic", "Mexico"],
+			"908003849": ["Germany", "Malta", "Norway", "Slovakia", "South Korea"],
+			"908003850": ["Australia", "Canada", "Romania", "Switzerland", "Uruguay"],
+			"908003851": ["Bangladesh", "England", "India", "Israel", "Netherlands"]
 		}
 	}
 }

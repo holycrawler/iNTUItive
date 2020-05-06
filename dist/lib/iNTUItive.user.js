@@ -1,20 +1,20 @@
 // ==UserScript==
 // @name         DO iNTUItive
 // @namespace    https://github.com/DO-Tools/iNTUItive
-// @version      0.0.1
+// @version      0.0.2
 // @description  NT UI made intuitive & intelligent.
 // @author       Silviu Burcea (silviuburceadev@gmail.com)
 // @match        https://www.dugout-online.com/competitions/*
 // @grant        GM_getResourceText
-// @resource     worldCups https://raw.githubusercontent.com/DO-Tools/iNTUItive/0.0.1/src/data/world-cups.json
+// @resource     worldCups https://raw.githubusercontent.com/DO-Tools/iNTUItive/0.0.2/src/data/world-cups.json
 // ==/UserScript==
 
 "use strict";
 (function () {
     "use strict";
     var worldCups = JSON.parse(GM_getResourceText("worldCups"));
-    var competition = document.querySelector("select[name='countrySelect'] option:checked").textContent;
-    var season = document.querySelector("select[name='selectSeason'] option:checked").textContent;
+    var competition = document.querySelector("select[name='countrySelect'] option:checked").value;
+    var season = document.querySelector("select[name='selectSeason'] option:checked").value;
     var worldCup = worldCups[season];
     if (worldCup == null) {
         console.log("Could not find world cup data for season " + season);
@@ -29,8 +29,8 @@
     // Enhance the group names with the countries participating
     options
         .forEach(function (o) {
-        var group = worldCupDraw[o.textContent];
-        var countries = group.countries.join(", ");
+        var group = worldCupDraw[o.value];
+        var countries = group.join(", ");
         o.textContent += " (" + countries + ")";
     });
 })();
