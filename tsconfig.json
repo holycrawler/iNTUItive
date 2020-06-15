@@ -6,8 +6,6 @@
       "dom"
     ],
     "allowJs": false,
-    "rootDir": "src",
-    "outDir": "dist",
     "strict": true,
     "sourceMap": true,
     "noImplicitAny": true,
