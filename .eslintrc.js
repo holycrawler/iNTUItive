@@ -9,7 +9,16 @@ module.exports = {
         "@typescript-eslint"
     ],
     "rules": {
-        "@typescript-eslint/no-non-null-assertion": "off"
+        "@typescript-eslint/no-non-null-assertion": "off",
+        "prettier/prettier": [
+            "error",
+            {
+                printWidth: 120,
+                singleQuote: false,
+                tabWidth: 4,
+                trailingComma: "es5"
+            }
+        ]
     },
     "extends": [
         "plugin:@typescript-eslint/recommended",
@@ -17,7 +26,10 @@ module.exports = {
         "plugin:prettier/recommended"
     ],
     "env": {
-        "greasemonkey": true,
         "browser": true
-    }
+    },
+    "ignorePatterns": [
+        "node_modules",
+        "dist"
+    ]
 };

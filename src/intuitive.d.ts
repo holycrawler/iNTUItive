@@ -71,6 +71,6 @@ type WorldCupLevel =
     | "wcqualifiers19"
     | "wcqualifiers17";
 type WorldCup = Record<WorldCupLevel, WorldCupDraw>;
-type WorldCupSeason = "16";
+type WorldCupSeason = "16" | "17";
 // Partial as it can contain qualifications only
 type WorldCupHistory = Record<WorldCupSeason, Partial<WorldCup>>;
