@@ -3,7 +3,7 @@
   "description": "NT UI made intuitive & intelligent.",
   "author": "Silviu Burcea (silviuburceadev@gmail.com)",
   "license": "MIT",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "scripts": {
     "dev": "webpack --mode development --watch",
     "build": "webpack --mode production",
