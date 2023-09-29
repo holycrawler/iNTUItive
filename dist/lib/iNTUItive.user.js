@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DO iNTUItive
 // @namespace    https://github.com/DO-Tools/iNTUItive
-// @version      0.1.0
+// @version      0.1.2
 // @description  NT UI made intuitive & intelligent.
 // @author       Silviu Burcea (silviuburceadev@gmail.com)
 // @match        https://www.dugout-online.com/competitions/*

@@ -138,7 +138,7 @@ const wch: WorldCupHistory = {
       "906006144": ["Belgium", "Mexico", "Uruguay", "Hungary", "France"],
       "906006145": ["Turkey", "Russia", "Austria", "Malta", "Sweden"],
       "906006146": ["Serbia", "Bolivia", "Thailand", "Iceland", "Lithuania"],
-      "906006147": ["Romania", "Chile", "South Africa", "Argentina", "Spain"],
+      "906006147": ["Romania", "Chile", "South Africa", "Argentina","Spain"],
       "906006148": ["Israel", "Netherlands", "Albania", "Norway", "Latvia"],
       "906006149": ["Slovenia", "China", "Italy", "Venezuela", "Greece"],
       "906006150": ["Scotland", "Canada", "Germany", "South Korea", "Australia"],
